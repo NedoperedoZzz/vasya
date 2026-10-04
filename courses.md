@@ -15,7 +15,13 @@
 
 ## Программирование
 
-Пока пусто.
+### Pandas
+
+- **Ссылка:** https://pandas.pydata.org/docs/user_guide/reshaping.html#reshaping-pivot
+- **Тематика:** Гайд по использованию pandas
+- **Платформа:** Pandas PyData
+- **Язык:** английский
+- **Комментарий:** Весь функционал pandas
 
 ## Математика
 Пока пусто.
