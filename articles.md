@@ -34,7 +34,7 @@
 - **Язык:** английский
 - **Комментарий:** Полная документация Pandas для пользователей
 
-### Pandas для Python
+### GitVerse
 - **Ссылка:** https://gitverse.ru/gitverse/Hello_GitVerse
 - **Тематика:** GitVerse
 - **Платформа:** GitVerse
