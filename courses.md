@@ -25,7 +25,7 @@
 
 ### Яндекс.Практикум
 
-- **Ссылка:** https://practicum.yandex.ru/trainer/ap-backend-st/lesson/eb893886-7f55-48cb-86fd-4070dd493d84
+- **Ссылка:** https://practicum.yandex.ru/profile/ap-backend-st/
 - **Тематика:** Backend-разработчик на Python
 - **Платформа:** Яндекс
 - **Язык:** русский
