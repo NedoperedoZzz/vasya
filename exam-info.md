@@ -7,3 +7,7 @@
 ## Матан
 
 Курс препода с примерным билетом, задачами и вопросами на КР и экзамен: [Курс от препода на elearn](https://elearn.urfu.ru/course/view.php?id=8861)
+
+## Англ
+
+[Таблица успеваемости](https://docs.google.com/spreadsheets/d/1hs4MPZn6KBBFxGpsP_St5MVkFjPV30cipY1R-xvl5_o/edit?usp=drivesdk)
