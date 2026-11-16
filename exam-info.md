@@ -12,3 +12,7 @@
 ## Англ
 
 [Таблица успеваемости](https://docs.google.com/spreadsheets/d/1hs4MPZn6KBBFxGpsP_St5MVkFjPV30cipY1R-xvl5_o/edit?usp=drivesdk)
+
+## ИТиС
+
+[Ссылка на лекции по понедельникам](https://urfu.ktalk.ru/qm6sxfke8rg5)
