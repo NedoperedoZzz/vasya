@@ -26,6 +26,13 @@ https://people.sber.ru/platform/people-activities/events/9e303cfd-363d-4b92-83a5
 - **Язык:** русский
 - **Комментарий:** игра для прокачки навыков владения git
 
+### Unkernel
+
+- **Ссылка:** https://unkernel.dev/
+- **Тематика:** Linux прямо в браузере 
+- **Язык:** английский
+- **Комментарий:** работает установка пакетов, python и прочее
+
 ## Команда
 
 ### Yandex Boards
